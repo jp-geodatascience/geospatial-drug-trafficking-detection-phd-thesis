@@ -20,7 +20,7 @@ Geospatial Intelligence (GEOINT) · Artificial Intelligence (AI) · Remote Sensi
 
 ## How to Cite
 **Preferred citation (APA):**  
-Pinto-Hidalgo, J. J. (2022). *Detection of geospatial objects linked to drug trafficking: an approach based on geospatial intelligence and artificial intelligence* (Doctoral thesis, Universidade Federal do Paraná). UFPR Digital Library. https://hdl.handle.net/1884/81059 :contentReference[oaicite:1]{index=1}
+Pinto-Hidalgo, J. J. (2022). *Detection of geospatial objects linked to drug trafficking: an approach based on geospatial intelligence and artificial intelligence* (Doctoral thesis, Universidade Federal do Paraná). UFPR Digital Library. https://acervodigital.ufpr.br/handle/1884/81059 :contentReference[oaicite:1]{index=1}
 
 **BibTeX:**
 ```bibtex
@@ -30,5 +30,5 @@ Pinto-Hidalgo, J. J. (2022). *Detection of geospatial objects linked to drug tra
   school  = {Universidade Federal do Paran{\'a} (UFPR)},
   address = {Curitiba, Brazil},
   year    = {2022},
-  url     = {https://hdl.handle.net/1884/81059}
+  url     = {https://acervodigital.ufpr.br/handle/1884/81059}
 }
