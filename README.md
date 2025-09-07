@@ -29,8 +29,8 @@ Pinto-Hidalgo, J. J. (2022). *Detection of geospatial objects linked to drug tra
 ```bibtex
 @phdthesis{PintoHidalgo_2022_PhD_UFPR,
   title   = {Detection of geospatial objects linked to drug trafficking: an approach based on geospatial intelligence and artificial intelligence},
-  author  = {Pinto-Hidalgo, Jairo Jes{\'u}s},
-  school  = {Universidade Federal do Paran{\'a} (UFPR)},
+  author  = {Pinto-Hidalgo, Jairo Jesús},
+  school  = {Universidade Federal do Paraná (UFPR)},
   address = {Curitiba, Brazil},
   year    = {2022},
   url     = {https://acervodigital.ufpr.br/handle/1884/81059}
